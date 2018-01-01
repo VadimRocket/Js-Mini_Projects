@@ -1,0 +1,12 @@
+body {
+	background:url(../img/lcalc.jpeg) no-repeat center center;
+	background-attachment: fixed;
+}
+.input-group-addon {
+    padding: .375rem .75rem;
+    color: #000;
+    border: 1px solid #ced4da;   
+}
+#loading, #results {
+    display: none;
+}
