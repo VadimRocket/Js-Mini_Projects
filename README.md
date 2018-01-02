@@ -14,5 +14,4 @@
 <h3>Project 3</h3>
 <p>Book useful links</p>
 <p>used technologies: skeleton,js</p>
-<p>Проект для просмотра прогноза погоды в любой точке мира. </p>
-![Иллюстрация к проекту](https://github.com/VadimRocket/Js-Mini_Projects/blob/master/previews/pr_weather.jpg)
+<p>Проект для добавления полезных ресурсов. </p>
