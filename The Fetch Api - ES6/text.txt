@@ -1,0 +1,12 @@
+<h4>How do we use the Fetch API?</h4>
+<p>In a very simple manner all you really do is call fetch with the URL you want, by default the Fetch API uses the GET method, so a very simple call would be like this:
+</p>
+<pre>
+fetch(url) // Call the fetch function passing the url of the API as a parameter
+.then(function() {
+    // Your code for handling the data you get from the API
+})
+.catch(function() {
+    // This is where you run code if the server returns any errors
+});
+</pre>

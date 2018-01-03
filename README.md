@@ -15,3 +15,8 @@
 <p>Book useful links</p>
 <p>used technologies: skeleton,js</p>
 <p>Проект для добавления полезных ресурсов. </p>
+<h3>Project 4</h3>
+<p>The Fetch Api - ES6</p>
+<p>used technologies: skeleton,js</p>
+<p> GET TEXT,  GET JSON, GET EXTERNAL API DATA(Github) </p>
+
